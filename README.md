@@ -1,2 +1,2 @@
 # AJAXLite
-A small and light JavaScript AJAX library
+A small and light JavaScript library to make AJAX calls easier
