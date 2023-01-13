@@ -29,6 +29,10 @@ Send an AJAX request with the given settings
 
 Settings that configure the AJAX request. Supported parameters are as follows:
 
+**url** - String
+
+The URL to send the request to
+
 **xhr** - Function
 
 A function that returns a (modified) XMLHttpRequest object to be used for the request.
